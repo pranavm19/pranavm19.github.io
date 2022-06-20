@@ -5,12 +5,35 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu4a5c142672685225f116ed79b9f88b92_27582_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Estimating Speed-Accuracy Trade-offs to Evaluate and Understand Closed-Loop Prosthesis Interfaces</title>
+      <link>https://example.com/publication/saf22/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/saf22/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>The impact of objective functions on control policies in closed-loop control of grasping force with a myoelectric prosthesis</title>
@@ -36,7 +59,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Task-driven hierarchical deep neural network models of the proprioceptive pathway</title>
+      <title>Contrasting action and posture coding with hierarchical deep neural network models of proprioception</title>
       <link>https://example.com/publication/deepdraw20/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/deepdraw20/</guid>
